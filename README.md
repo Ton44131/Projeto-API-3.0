@@ -1,4 +1,4 @@
-https://ton44131.github.io/Projeto-API-2.5/
+ https://ton44131.github.io/Projeto-API-3.0/
 
 
 CPF disponível:
@@ -21,8 +21,8 @@ CPF disponível:
   "cpf": 78965412300,
   "nome": "Rafael",
 
-   "cpf": 98765432100,
-  "nome": "cardoso",
+   "cpf": 98765432101,
+  "nome": "Toni",
 
 
  "cpf": 98732165400,
@@ -42,23 +42,3 @@ CPF disponível:
 
   ////////////////////////////////////////
 
-  jogos disponíveis:
-  The Witcher 3: Wild Hunt
-
-  The Legend of Zelda: Breath of the Wild
-
-  Bayonetta
-
-  Devil May Cry 5
-
-  God of War Ragnarok
-
-  The Last of Us
-
-  Splatoon 2
-
-  Minecraft
-
-  Hollow Knight
-
-  Undertale
